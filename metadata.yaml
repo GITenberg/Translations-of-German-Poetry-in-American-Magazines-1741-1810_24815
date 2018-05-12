@@ -1,0 +1,27 @@
+_repo: Translations-of-German-Poetry-in-American-Magazines-1741-1810_24815
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Davis, Edward Ziegler
+    birthdate: 1878
+    deathdate: 1924
+    gutenberg_agent_id: '26749'
+    url: http://www.gutenberg.org/2009/agents/26749
+description: ''
+gutenberg_issued: '2008-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24815'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American periodicals -- Bibliography'
+- !lcsh 'German poetry -- Translations into English'
+title: Translations of German Poetry in American Magazines 1741-1810
+url: http://www.gutenberg.org/ebooks/24815
